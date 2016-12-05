@@ -1,0 +1,32 @@
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\Kinect_v1\Kinect_v1\bin\Release\Kinect_v1.exe.config
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\Kinect_v1\Kinect_v1\bin\Release\Kinect_v1.exe
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\Kinect_v1\Kinect_v1\bin\Release\Kinect_v1.pdb
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\Kinect_v1\Kinect_v1\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\Kinect_v1\Kinect_v1\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\Kinect_v1\Kinect_v1\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\Kinect_v1\Kinect_v1\obj\x86\Release\UEB.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\Kinect_v1\Kinect_v1\obj\x86\Release\MainWindow.baml
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\Kinect_v1\Kinect_v1\obj\x86\Release\MainWindow.g.cs
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\Kinect_v1\Kinect_v1\obj\x86\Release\App.g.cs
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\Kinect_v1\Kinect_v1\obj\x86\Release\Kinect_v1_MarkupCompile.cache
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\Kinect_v1\Kinect_v1\obj\x86\Release\Kinect_v1.g.resources
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\Kinect_v1\Kinect_v1\obj\x86\Release\Kinect_v1.Properties.Resources.resources
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\Kinect_v1\Kinect_v1\obj\x86\Release\UEB.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\Kinect_v1\Kinect_v1\obj\x86\Release\Kinect_v1.exe
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\Kinect_v1\Kinect_v1\obj\x86\Release\Kinect_v1.pdb
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\University Electronic Box\Kinect_v1\bin\Release\UEB.exe.config
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\University Electronic Box\Kinect_v1\bin\Release\UEB.exe
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\University Electronic Box\Kinect_v1\bin\Release\UEB.pdb
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\University Electronic Box\Kinect_v1\obj\x86\Release\MainWindow.baml
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\University Electronic Box\Kinect_v1\obj\x86\Release\MainWindow.g.cs
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\University Electronic Box\Kinect_v1\obj\x86\Release\App.g.cs
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\University Electronic Box\Kinect_v1\obj\x86\Release\UEB_MarkupCompile.cache
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\University Electronic Box\Kinect_v1\obj\x86\Release\UEB.g.resources
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\University Electronic Box\Kinect_v1\obj\x86\Release\UEB.Properties.Resources.resources
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\University Electronic Box\Kinect_v1\obj\x86\Release\UEB.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\University Electronic Box\Kinect_v1\obj\x86\Release\UEB.exe
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\University Electronic Box\Kinect_v1\obj\x86\Release\UEB.pdb
+C:\Users\Utilisateur\Documents\I.U.T\PTUT S3\University Electronic Box\Kinect_v1\obj\x86\Release\UEB.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\UniversityElectronicBox\University Electronic Box\Kinect_v1\bin\Release\UEB.exe.config
+C:\Users\Utilisateur\Desktop\UniversityElectronicBox\University Electronic Box\Kinect_v1\obj\x86\Release\UEB.exe
+C:\Users\Utilisateur\Desktop\UniversityElectronicBox\University Electronic Box\Kinect_v1\obj\x86\Release\UEB.pdb

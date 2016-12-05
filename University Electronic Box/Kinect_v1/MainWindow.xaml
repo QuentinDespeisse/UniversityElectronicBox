@@ -1,0 +1,42 @@
+﻿<Window x:Class="UEB.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="University Electronic Box" Height="479.867" Width="508.08" Loaded="Window_Loaded" Closing="WindowClosing" VerticalAlignment="Center" HorizontalAlignment="Center" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Background="White" WindowStyle="ThreeDBorderWindow">
+    <Grid Margin="0,0,3.6,-0.2">
+        <GroupBox Header="Ajout d'une question" HorizontalAlignment="Left" Height="258" Margin="18,24,0,0" VerticalAlignment="Top" Width="214">
+            <Grid HorizontalAlignment="Left" Height="215" Margin="0,10,0,0" VerticalAlignment="Top" Width="197">
+                <Label x:Name="numQuest" Content="Question n°1" HorizontalAlignment="Left" Margin="55,4,0,0" VerticalAlignment="Top"/>
+                <CheckBox x:Name="repA" Content="Réponse A" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="55,80,0,0"/>
+                <CheckBox x:Name="repB" Content="Réponse B" HorizontalAlignment="Left" Margin="55,100,0,0" VerticalAlignment="Top"/>
+                <CheckBox x:Name="repC" Content="Réponse C" HorizontalAlignment="Left" Margin="55,120,0,0" VerticalAlignment="Top"/>
+                <CheckBox x:Name="repD" Content="Réponse D" HorizontalAlignment="Left" Margin="55,140,0,0" VerticalAlignment="Top"/>
+                <Button Content="Ajouter la question" Height="25" Width="116" Click="AddQuestion" Margin="33,174,38,0" VerticalAlignment="Bottom"/>
+                <TextBox x:Name="nomRep" HorizontalAlignment="Left" Height="23" Margin="52,35,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="125"/>
+                <Label Content="Nom :" HorizontalAlignment="Left" Margin="6,33,0,0" VerticalAlignment="Top"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Poser une question" HorizontalAlignment="Left" Height="258" Margin="246,24,0,0" VerticalAlignment="Top" Width="228">
+            <Grid HorizontalAlignment="Left" Height="214" Margin="-6,22,0,-0.8" VerticalAlignment="Top" Width="198">
+                <ComboBox x:Name="listeQuestions" HorizontalAlignment="Left" Margin="21,20,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="listeQuestions_SelectionChanged"/>
+                <Button x:Name="poserQuestion" Content="Poser question" Margin="39,0,44,13" Click="PoserQuestion" IsEnabled="False" Height="25" VerticalAlignment="Bottom"/>
+                <Label x:Name="delaiLabel" Content="10" HorizontalAlignment="Left" Margin="150,88,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.698,-0.078"/>
+                <Slider x:Name="delai" HorizontalAlignment="Left" Margin="16,93,0,0" VerticalAlignment="Top" Width="125" Minimum="10" Maximum="60" Value="10" SmallChange="1" TickFrequency="5" ValueChanged="delai_ValueChanged"/>
+                <Label Content="Temps de réponse :" HorizontalAlignment="Left" Margin="16,62,0,0" VerticalAlignment="Top"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Statistiques des réponses" HorizontalAlignment="Left" Height="150" Margin="18,287,0,0" VerticalAlignment="Top" Width="456">
+            <Grid x:Name="reponsesGrid" HorizontalAlignment="Left" Height="115" VerticalAlignment="Top" Width="433" Margin="10,10,0,-9.8">
+                <Label x:Name="lab1" Content="Réponse" HorizontalAlignment="Left" Margin="6,6,0,83" VerticalAlignment="Center"/>
+                <Label x:Name="lab2" Content="Réponse" HorizontalAlignment="Left" Margin="6,28,0,63" VerticalAlignment="Center"/>
+                <Label x:Name="lab4" Content="Réponse" HorizontalAlignment="Left" Margin="6,72,0,0" VerticalAlignment="Top"/>
+                <Rectangle x:Name="rect1" Fill="Red" HorizontalAlignment="Left" Height="17" Margin="117,10,0,88" VerticalAlignment="Center" Width="300" IsEnabled="False"/>
+                <Rectangle x:Name="rect2" Fill="Red" HorizontalAlignment="Left" Height="17" Margin="117,32,0,66" VerticalAlignment="Center" Width="300" IsEnabled="False"/>
+                <Rectangle x:Name="rect4" Fill="Red" HorizontalAlignment="Left" Height="17" Margin="117,76,0,0" VerticalAlignment="Top" Width="300" IsEnabled="False"/>
+                <Label x:Name="lab5" Content="Réponse" HorizontalAlignment="Left" Margin="6,94,0,-5" VerticalAlignment="Top"/>
+                <Rectangle x:Name="rect5" Fill="Red" HorizontalAlignment="Left" Height="17" Margin="117,98,0,0" VerticalAlignment="Top" Width="300" IsEnabled="False"/>
+                <Rectangle x:Name="rect3" Fill="Red" HorizontalAlignment="Left" Height="17" Margin="117,54,0,44" VerticalAlignment="Center" Width="300" IsEnabled="False"/>
+                <Label x:Name="lab3" Content="Réponse" HorizontalAlignment="Left" Margin="6,50,0,41" VerticalAlignment="Center"/>
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Window>

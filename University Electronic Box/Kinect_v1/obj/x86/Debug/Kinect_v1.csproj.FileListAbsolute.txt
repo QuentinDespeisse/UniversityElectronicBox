@@ -1,0 +1,236 @@
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v1\Kinect_v1\Kinect_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v1\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.baml
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v1\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v1\Kinect_v1\Kinect_v1\obj\x86\Debug\App.g.cs
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v1\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1_MarkupCompile.cache
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v1\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.g.resources
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v1\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.Properties.Resources.resources
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v1\Kinect_v1\Kinect_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v1\Kinect_v1\Kinect_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v1\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v1\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.pdb
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v1\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.exe
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v1\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.pdb
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.exe
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.pdb
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v2\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v2\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.pdb
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v2\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v2\Kinect_v1\Kinect_v1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v2\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v2\Kinect_v1\Kinect_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v2\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.baml
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v2\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v2\Kinect_v1\Kinect_v1\obj\x86\Debug\App.g.cs
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1_MarkupCompile.cache
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.g.resources
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.Properties.Resources.resources
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v2\Kinect_v1\Kinect_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dominique Filoé\Desktop\Projet Kinect\Kinect_v2\Kinect_v1\Kinect_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Kinect_v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.exe
+G:\Kinect_v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.pdb
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\Suivi cou sans image\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.exe
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\Suivi cou sans image\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.pdb
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\Suivi cou sans image\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\Suivi cou sans image\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.pdb
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\Suivi cou sans image\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\Suivi cou sans image\Kinect_v1\Kinect_v1\bin\Debug\Microsoft.Expression.Drawing.dll
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\Suivi cou sans image\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\Suivi cou sans image\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csprojResolveAssemblyReference.cache
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\Suivi cou sans image\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.baml
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\Suivi cou sans image\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.g.cs
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\Suivi cou sans image\Kinect_v1\Kinect_v1\obj\x86\Debug\App.g.cs
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\Suivi cou sans image\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1_MarkupCompile.cache
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\Suivi cou sans image\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.g.resources
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\Suivi cou sans image\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.Properties.Resources.resources
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\Suivi cou sans image\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csproj.GenerateResource.Cache
+C:\Users\despeisse\Desktop\Suivi cou sans image\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.exe
+C:\Users\despeisse\Desktop\Suivi cou sans image\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.pdb
+C:\Users\despeisse\Desktop\Suivi cou sans image\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe
+C:\Users\despeisse\Desktop\Suivi cou sans image\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.pdb
+C:\Users\despeisse\Desktop\Suivi cou sans image\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\despeisse\Desktop\Suivi cou sans image\Kinect_v1\Kinect_v1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\despeisse\Desktop\Suivi cou sans image\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\despeisse\Desktop\Suivi cou sans image\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csprojResolveAssemblyReference.cache
+C:\Users\despeisse\Desktop\Suivi cou sans image\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.baml
+C:\Users\despeisse\Desktop\Suivi cou sans image\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\despeisse\Desktop\Suivi cou sans image\Kinect_v1\Kinect_v1\obj\x86\Debug\App.g.cs
+C:\Users\despeisse\Desktop\Suivi cou sans image\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1_MarkupCompile.cache
+C:\Users\despeisse\Desktop\Suivi cou sans image\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.g.resources
+C:\Users\despeisse\Desktop\Suivi cou sans image\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.Properties.Resources.resources
+C:\Users\despeisse\Desktop\Suivi cou sans image\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csproj.GenerateResource.Cache
+C:\Users\despeisse\Desktop\Suivi cou sans image\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe.config
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe.config
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.exe
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.pdb
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csprojResolveAssemblyReference.cache
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.baml
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01\Kinect_v1\Kinect_v1\obj\x86\Debug\App.g.cs
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1_MarkupCompile.cache
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.g.resources
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.Properties.Resources.resources
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csproj.GenerateResource.Cache
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.pdb
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01\Kinect_v1\Kinect_v1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe.config
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.exe
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.pdb
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.pdb
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csprojResolveAssemblyReference.cache
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.baml
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\App.g.cs
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1_MarkupCompile.cache
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.g.resources
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.Properties.Resources.resources
+C:\Users\despeisse\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csproj.GenerateResource.Cache
+C:\Users\villielm\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe.config
+C:\Users\villielm\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.exe
+C:\Users\villielm\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.pdb
+C:\Users\villielm\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csprojResolveAssemblyReference.cache
+C:\Users\villielm\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.baml
+C:\Users\villielm\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\villielm\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\App.g.cs
+C:\Users\villielm\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1_MarkupCompile.cache
+C:\Users\villielm\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.g.resources
+C:\Users\villielm\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.Properties.Resources.resources
+C:\Users\villielm\Desktop\Suivi cou sans image 30-01 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csproj.GenerateResource.Cache
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\essai timer\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe.config
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\essai timer\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.exe
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\essai timer\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.pdb
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\essai timer\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\essai timer\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.pdb
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\essai timer\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\essai timer\Kinect_v1\Kinect_v1\bin\Debug\Microsoft.Expression.Drawing.dll
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\essai timer\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\essai timer\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csprojResolveAssemblyReference.cache
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\essai timer\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.baml
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\essai timer\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.g.cs
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\essai timer\Kinect_v1\Kinect_v1\obj\x86\Debug\App.g.cs
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\essai timer\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1_MarkupCompile.cache
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\essai timer\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.g.resources
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\essai timer\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.Properties.Resources.resources
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Code\essai timer\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\Desktop\essai timer\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe.config
+C:\Users\Utilisateur\Desktop\essai timer\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.exe
+C:\Users\Utilisateur\Desktop\essai timer\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.pdb
+C:\Users\Utilisateur\Desktop\essai timer\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe
+C:\Users\Utilisateur\Desktop\essai timer\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.pdb
+C:\Users\Utilisateur\Desktop\essai timer\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Utilisateur\Desktop\essai timer\Kinect_v1\Kinect_v1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Utilisateur\Desktop\essai timer\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Utilisateur\Desktop\essai timer\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\essai timer\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.baml
+C:\Users\Utilisateur\Desktop\essai timer\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Utilisateur\Desktop\essai timer\Kinect_v1\Kinect_v1\obj\x86\Debug\App.g.cs
+C:\Users\Utilisateur\Desktop\essai timer\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1_MarkupCompile.cache
+C:\Users\Utilisateur\Desktop\essai timer\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.g.resources
+C:\Users\Utilisateur\Desktop\essai timer\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.Properties.Resources.resources
+C:\Users\Utilisateur\Desktop\essai timer\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v2\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe.config
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.exe
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.pdb
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v2\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v2\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.pdb
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v2\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v2\Kinect_v1\Kinect_v1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v2\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.baml
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\App.g.cs
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1_MarkupCompile.cache
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.g.resources
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.Properties.Resources.resources
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v3\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe.config
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v3\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.exe
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v3\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.pdb
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v3\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v3\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.pdb
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v3\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v3\Kinect_v1\Kinect_v1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v3\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v3\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v3\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.baml
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v3\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v3\Kinect_v1\Kinect_v1\obj\x86\Debug\App.g.cs
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v3\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1_MarkupCompile.cache
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v3\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.g.resources
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v3\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.Properties.Resources.resources
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v3\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v4\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe.config
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v4\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.exe
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v4\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.pdb
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v4\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v4\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.pdb
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v4\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v4\Kinect_v1\Kinect_v1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v4\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v4\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v4\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.baml
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v4\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v4\Kinect_v1\Kinect_v1\obj\x86\Debug\App.g.cs
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v4\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1_MarkupCompile.cache
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v4\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.g.resources
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v4\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.Properties.Resources.resources
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v4\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v5\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe.config
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v5\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.exe
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v5\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.pdb
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v5\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v5\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.pdb
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v5\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v5\Kinect_v1\Kinect_v1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v5\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v5\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v5\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.baml
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v5\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v5\Kinect_v1\Kinect_v1\obj\x86\Debug\App.g.cs
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v5\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1_MarkupCompile.cache
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v5\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.g.resources
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v5\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.Properties.Resources.resources
+C:\Users\Utilisateur\Desktop\Suivi 12-02 v5\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csproj.GenerateResource.Cache
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Prototype 2\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe.config
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Prototype 2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.exe
+\\srv-files01\DOSSUP\STI2D_SIN\ProjetsTT1G2\Projet Poursuite\Tache 1 (Quentin)\Prototype 2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.pdb
+C:\Users\Utilisateur\Desktop\Prototype 2\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe.config
+C:\Users\Utilisateur\Desktop\Prototype 2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.exe
+C:\Users\Utilisateur\Desktop\Prototype 2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.pdb
+C:\Users\Utilisateur\Desktop\Prototype 2\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe
+C:\Users\Utilisateur\Desktop\Prototype 2\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.pdb
+C:\Users\Utilisateur\Desktop\Prototype 2\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Utilisateur\Desktop\Prototype 2\Kinect_v1\Kinect_v1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Utilisateur\Desktop\Prototype 2\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Utilisateur\Desktop\Prototype 2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Prototype 2\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.baml
+C:\Users\Utilisateur\Desktop\Prototype 2\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Utilisateur\Desktop\Prototype 2\Kinect_v1\Kinect_v1\obj\x86\Debug\App.g.cs
+C:\Users\Utilisateur\Desktop\Prototype 2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1_MarkupCompile.cache
+C:\Users\Utilisateur\Desktop\Prototype 2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.g.resources
+C:\Users\Utilisateur\Desktop\Prototype 2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.Properties.Resources.resources
+C:\Users\Utilisateur\Desktop\Prototype 2\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\Desktop\Proto 2 Kinect\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe.config
+C:\Users\Utilisateur\Desktop\Proto 2 Kinect\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.exe
+C:\Users\Utilisateur\Desktop\Proto 2 Kinect\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.pdb
+C:\Users\Utilisateur\Desktop\Proto 2 Kinect\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.exe
+C:\Users\Utilisateur\Desktop\Proto 2 Kinect\Kinect_v1\Kinect_v1\bin\Debug\Kinect_v1.pdb
+C:\Users\Utilisateur\Desktop\Proto 2 Kinect\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Utilisateur\Desktop\Proto 2 Kinect\Kinect_v1\Kinect_v1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Utilisateur\Desktop\Proto 2 Kinect\Kinect_v1\Kinect_v1\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Utilisateur\Desktop\Proto 2 Kinect\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Proto 2 Kinect\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.baml
+C:\Users\Utilisateur\Desktop\Proto 2 Kinect\Kinect_v1\Kinect_v1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Utilisateur\Desktop\Proto 2 Kinect\Kinect_v1\Kinect_v1\obj\x86\Debug\App.g.cs
+C:\Users\Utilisateur\Desktop\Proto 2 Kinect\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1_MarkupCompile.cache
+C:\Users\Utilisateur\Desktop\Proto 2 Kinect\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.g.resources
+C:\Users\Utilisateur\Desktop\Proto 2 Kinect\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.Properties.Resources.resources
+C:\Users\Utilisateur\Desktop\Proto 2 Kinect\Kinect_v1\Kinect_v1\obj\x86\Debug\Kinect_v1.csproj.GenerateResource.Cache
